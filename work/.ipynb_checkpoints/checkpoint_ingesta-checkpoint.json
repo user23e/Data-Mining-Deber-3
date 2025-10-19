@@ -1,0 +1,20 @@
+{
+  "yellow_2015_01": {
+    "service": "yellow",
+    "year": 2015,
+    "month": 1,
+    "processed_at": "2025-10-15T16:00:04.412622"
+  },
+  "yellow_2015_02": {
+    "service": "yellow",
+    "year": 2015,
+    "month": 2,
+    "processed_at": "2025-10-15T16:11:36.297109"
+  },
+  "yellow_2015_03": {
+    "service": "yellow",
+    "year": 2015,
+    "month": 3,
+    "processed_at": "2025-10-15T16:34:35.552660"
+  }
+}
